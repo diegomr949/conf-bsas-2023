@@ -4,7 +4,7 @@
     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
-/*-----------------------------------Navbar CSS------------------------------------*/
+/*-----------------------------------Barra navegacion CSS------------------------------------*/
 .container-nav{
     background-color: rgb(78, 77, 77);
 }
@@ -29,7 +29,8 @@
     padding: 0 !important;
     margin: 1vh !important;
 }
-/*-----------------------------Navbar query-------------------------------------------*/
+
+/*-----------------------------Barra navegacion query-------------------------------------------*/
 
 @media (max-width: 992px){
     .container-fluid{
@@ -89,6 +90,7 @@
         flex-direction: row !important;
       }
 }
+
 /*----------------------Informacion sobre la conferencia CSS----------------------------*/
 .Container-main{
     background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../img/ba1.jpg");
@@ -260,6 +262,7 @@
     margin-left: 1vh;
     background-color: rgb(141, 15, 15);
 }
+
 /*------------------------------------Oradores QUERYS---------------------------*/
 @media (max-width: 575.98px){
     .Container-JR{
@@ -281,6 +284,7 @@
             color:#000000;
             }
 }
+
 /*-------------------------------Información Geográfica CSS---------------------------------*/
 .Container-info{
    display: flex;
@@ -311,6 +315,7 @@
     width: 8vw;
     height: 8vh; 
 }
+
 /*-------------------------Información Geográfica QUERYS-------------------------------------*/
 
 @media (max-width: 576px){
@@ -396,6 +401,7 @@
         font-size: 1em;
     }
 }
+
 /*---------------Formulario CSS-----------------------*/
 
 .container-contact2 {
@@ -557,6 +563,7 @@ textarea.input2 {
         border-width: 0;
     } 
 }
+
 /*---------------------------FOOTER---------------------------------------------------*/
 
 .container-footer{
@@ -579,6 +586,7 @@ textarea.input2 {
     text-decoration: none;
     color: #fff;
 }
+
 /*------------------------------FOOTER QUERYS--------------------------------------*/
 @media (max-width: 576px){
     .container-footer{
