@@ -94,7 +94,7 @@
 /*----------------------Informacion sobre la conferencia CSS----------------------------*/
 .Container-main{
     background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../img/ba1.jpg");
-    height: 50vh;
+    height: 120vh;
     background-size:cover;
     background-repeat: no-repeat;
     display: flex;
